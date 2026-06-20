@@ -1,0 +1,22 @@
+{
+  "drafts": {
+    "studio-evidence-library": {
+      "agent_notes": [],
+      "created_at": "2026-06-20T23:17:04.954931+00:00",
+      "diff": {},
+      "draft_id": "studio-evidence-library",
+      "endpoint_candidates": {},
+      "evidence_records": [],
+      "expires_at": null,
+      "probe_results": {},
+      "route_candidates": {},
+      "source": {
+        "kind": "studio_remote_model_catalog",
+        "location": "github",
+        "repo": "SevenX77/studio-llm-model-catalog"
+      },
+      "status": "pending",
+      "updated_at": "2026-06-20T23:17:04.954931+00:00"
+    }
+  }
+}
